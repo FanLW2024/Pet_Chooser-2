@@ -1,4 +1,4 @@
-username = 'cbcradio_bds2'
-password = 'Mango94Fox)'
-hostname = 'cbcradio.org'
-database = 'cbcradio_bds754_2'
+username = 'username'
+password = 'password'
+hostname = 'hostname'
+database = 'database'

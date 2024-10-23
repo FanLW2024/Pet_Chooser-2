@@ -82,7 +82,7 @@ def display_pet_choices():
 while True:
     # Display pet choices
     display_pet_choices()
-
+    print("[Q] Quit")
     user_input = input("Input your choice from the list or enter 'q' to quit:").strip()
 
     if user_input.lower() == 'q':
